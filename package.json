@@ -1,0 +1,29 @@
+{
+  "name": "justin",
+  "version": "1.0.0",
+  "description": "",
+  "engines": {
+    "node": "12.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "heroku",
+    "mongob"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericksonk6/justincheck.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericksonk6/justincheck.git/issues"
+  },
+  "homepage": "https://github.com/ericksonk6/justincheck.git#readme"
+}
